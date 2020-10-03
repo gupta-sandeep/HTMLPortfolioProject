@@ -20,7 +20,7 @@ We'll dive into a number of basic HTML concepts, including:
 
 ## What You'll Need
 
-You'll need a GitHub account, Git installed locally, and a text editor to edit HTML. We recommend using GitHub's [Atom Editor](https://atom.io/), which is free and very powerful. The [Brackets](http://brackets.io/) editor is another great tool.
+You'll need a GitHub account, Git installed locally, and a text editor to edit HTML. We recommend using GitHub's [Atom Editor](https://atom.io/), which is free and very powerful. The [Brackets](http://brackets.io/) editor is another great tool...
 
 ## Live Demo
 
